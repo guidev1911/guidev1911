@@ -1,47 +1,26 @@
-👋 Olá, eu sou [Seu Nome]!
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F778&center=true&vCenter=true&width=450&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Fullstack;Especializado+em+Node.js+e+Spring+Boot;Amante+de+tecnologias+web+e+inovação."> </p>
-📝 Sobre mim
-🎓 Formado em Sistemas de Informação.
-💻 Desenvolvedor Fullstack com experiência em Node.js, Spring Boot e React.
-🌱 Apaixonado por aprender novas tecnologias e melhorar minhas habilidades todos os dias.
-🚀 Busco sempre entregar soluções criativas, robustas e escaláveis para os desafios do dia a dia.
+## Olá, sou o Guilherme, desenvolvedor sempre em busca de novos desafios!
 
-🛠️ Tecnologias que utilizo
-Backend
+Formado em Sistemas de informação e facinado por tecnologia, enxergo cada como uma nova chance de melhorar.
 
-
-Frontend
-
-
-
-
-Banco de Dados
-
-📈 Estatísticas do GitHub
-<div align="center">
-
-
-🚀 Atividade de commits
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-🌐 Conecte-se comigo
 
-
-
-⭐ Se gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!
-
-
-
-
-📈 Minhas Estatísticas
-<div align="center">
-
-
+  
+  ##
+ 
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermereal1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-brito-souza-santos-49766329b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-🌐 Conecte-se comigo
-
-
-
-⭐ Se gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!
 
 
