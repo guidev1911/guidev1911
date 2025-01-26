@@ -1,6 +1,6 @@
 ## Olá, sou o Guilherme, desenvolvedor sempre em busca de novos desafios!
 
-Formado em Sistemas de informação e facinado por tecnologia, enxergo cada como uma nova chance de melhorar.
+Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia como uma nova chance de melhorar.
 
 <h3>Tecnologias que mais utilizo (◕‿◕)</h3>
 <div style="display: inline_block"><br>
