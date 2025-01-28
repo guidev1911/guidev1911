@@ -22,7 +22,11 @@ Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilhermereal1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-brito-souza-santos-49766329b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
   
 </div>
-
+<p &nbsp;></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guidev1911&show_icons=true&locale=en" alt="guidev1911" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=guidev1911&show_icons=true&locale=en&layout=compact" alt="guidev1911" /></p>
 
