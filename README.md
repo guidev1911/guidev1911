@@ -1,4 +1,4 @@
-## Olá, sou o Guilherme, desenvolvedor sempre em busca de novos desafios!
+## Olá, sou o Guilherme, dev sempre em busca de novos desafios!
 
 Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia como uma nova chance de melhorar.
 
