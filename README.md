@@ -1,6 +1,9 @@
-## Olá, sou o Guilherme, dev sempre em busca de novos desafios!
+## Olá, Guilherme aqui😉!
 
 Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia como uma nova chance de melhorar.
+
+![GitHub](https://img.shields.io/badge/GitHub-Perfil-0B3674?style=for-the-badge&logo=github&logoColor=white&labelColor=00F778)
+![Visualizações](https://komarev.com/ghpvc/?username=guidev1911-git&label=VISITAS&color=0B3674&labelColor=00F778&style=for-the-badge)
 
 <h3>Tecnologias que mais utilizo (◕‿◕)</h3>
 <div style="display: inline_block"><br>
@@ -20,7 +23,7 @@ Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia 
 </div>
 
 
-  ![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
  
 <div> 
   <a href="https://www.instagram.com/guilhermeb_ss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
