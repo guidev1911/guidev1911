@@ -1,6 +1,6 @@
 ## Olá, Guilherme aqui😉!
 
-Formado em Sistemas de informação e facinado por tecnologia, enxergo cada dia como uma nova chance de melhorar.
+Tenho foco em desenvolvimento back-end mas faço umas telinhas, rs.
 
 ![GitHub](https://img.shields.io/badge/GitHub-Perfil-0B3674?style=for-the-badge&logo=github&logoColor=white&labelColor=00F778)
 ![Visualizações](https://komarev.com/ghpvc/?username=guidev1911-git&label=VISITAS&color=0B3674&labelColor=00F778&style=for-the-badge)
