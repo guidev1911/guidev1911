@@ -38,14 +38,14 @@ Tenho foco em desenvolvimento back-end mas faço umas telinhas, rs.
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api?username=guidev1911&show_icons=true&locale=en&theme=github_dark&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api?username=guidev1911&show_icons=true&locale=en&theme=github_dark" 
     alt="guidev1911" 
   />
 </p>
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=guidev1911&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&cache_seconds=3600&bg_color=000000" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=guidev1911&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&cache_seconds=3600" 
     alt="Linguagens mais usadas por guidev1911" 
   />
 </p>
