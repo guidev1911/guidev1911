@@ -2,8 +2,8 @@
 
 Tenho foco em desenvolvimento back-end mas faço umas telinhas, rs.
 
-![GitHub](https://img.shields.io/badge/GitHub-Perfil-0B3674?style=for-the-badge&logo=github&logoColor=white&labelColor=00F778)
-![Visualizações](https://komarev.com/ghpvc/?username=guidev1911-git&label=VISITAS&color=0B3674&labelColor=00F778&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
+![Visualizações](https://komarev.com/ghpvc/?username=guidev1911-git&label=VISITAS&color=000080&labelColor=00F778&style=for-the-badge)
 
 <h3>Tecnologias que mais utilizo (◕‿◕)</h3>
 <div style="display: inline_block"><br>
@@ -26,23 +26,30 @@ Tenho foco em desenvolvimento back-end mas faço umas telinhas, rs.
 ![Stars](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
  
 <div> 
-  <a href="https://www.instagram.com/guilhermeb_ss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:guilhermereal1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-brito-souza-santos-49766329b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilherme-brito-souza-santos-49766329b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:guilhermereal1911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
 
 
   
 </div>
 <p &nbsp;></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=guidev1911&show_icons=true&locale=en&theme=blueberry" alt="guidev1911" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api?username=guidev1911&show_icons=true&locale=en&theme=github_dark&bg_color=000000" 
+    alt="guidev1911" 
+  />
+</p>
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=guidev1911&show_icons=true&locale=en&layout=compact&theme=blueberry&langs_count=10&cache_seconds=3600" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=guidev1911&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&cache_seconds=3600&bg_color=000000" 
     alt="Linguagens mais usadas por guidev1911" 
   />
 </p>
+
 
 
 
