@@ -1,11 +1,6 @@
-## Olá, Guilherme aqui😉!
-
-Tenho foco em desenvolvimento back-end mas faço umas telinhas, rs.
-
 ![GitHub](https://img.shields.io/badge/GitHub-Perfil-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![Visualizações](https://komarev.com/ghpvc/?username=guidev1911-git&label=VISITAS&color=000080&labelColor=00F778&style=for-the-badge)
 
-<h3>Tecnologias que mais utilizo (◕‿◕)</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
